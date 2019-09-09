@@ -1,2 +1,3 @@
 # UnityPackageTest
-TEsting importin Unity assets via package manager
+Testing importing Unity assets via package manager
+
